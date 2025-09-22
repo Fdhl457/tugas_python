@@ -1,7 +1,6 @@
-tugas Pyhton teknik komputer 
+tugas Pyhton teknik komputer kelompok: 3
 
-Nama: Fadhel Ibnu Yupardi 
+- Fadhel Ibnu Yupardi (2511512034)
+- Siti Kayla Reyhana (2511511006)
 
-Nim: 2511512034
 
-kelompok: 3
